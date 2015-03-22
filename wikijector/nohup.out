@@ -1,0 +1,137 @@
+/home/hfernand/Java_libs/
+/home/hfernand/Java_libs/
+build/lib
+Buildfile: build.xml
+
+run_verbose_controller:
+     [java] Verbose output is enabled.
+     [java] Setting controller host name to node058.das3.cs.vu.nl
+     [java] Setting number of workers to 1
+     [java] java.net.BindException: Address already in use
+     [java]    at gnu.java.net.PlainSocketImpl.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at wikibench.WikiBench.doController(Unknown Source)
+     [java]    at wikibench.WikiBench.main(Unknown Source)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.executeJava(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.UnknownElement.execute(ant.jar.so)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.dispatch.DispatchUtils.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Task.perform(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.performTasks(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeSortedTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTarget(ant.jar.so)
+     [java]    at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.runBuild(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.startAnt(ant.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.run(ant-launcher.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.main(ant-launcher.jar.so)
+     [java] Java Result: 1
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+/home/hfernand/Java_libs/
+/home/hfernand/Java_libs/
+build/lib
+Buildfile: build.xml
+
+run_verbose_controller:
+     [java] Verbose output is enabled.
+     [java] Setting controller host name to node058.das3.cs.vu.nl
+     [java] Setting number of workers to 1
+/home/hfernand/Java_libs/
+/home/hfernand/Java_libs/
+build/lib
+Buildfile: build.xml
+
+run_verbose_controller:
+     [java] Verbose output is enabled.
+     [java] Setting controller host name to node058.das3.cs.vu.nl
+     [java] Setting number of workers to 1
+     [java] java.net.BindException: Address already in use
+     [java]    at gnu.java.net.PlainSocketImpl.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at wikibench.WikiBench.doController(Unknown Source)
+     [java]    at wikibench.WikiBench.main(Unknown Source)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.executeJava(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.UnknownElement.execute(ant.jar.so)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.dispatch.DispatchUtils.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Task.perform(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.performTasks(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeSortedTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTarget(ant.jar.so)
+     [java]    at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.runBuild(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.startAnt(ant.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.run(ant-launcher.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.main(ant-launcher.jar.so)
+     [java] Java Result: 1
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+     [java] New WorkerConnection is now running
+     [java] Total requests: 1176570
+
+BUILD SUCCESSFUL
+Total time: 1,685 minutes 0 seconds
+/home/hfernand/Java_libs/
+/home/hfernand/Java_libs/
+build/lib
+Buildfile: build.xml
+
+run_verbose_controller:
+     [java] Verbose output is enabled.
+     [java] Setting controller host name to node058.das3.cs.vu.nl
+     [java] Setting number of workers to 1
+     [java] java.net.BindException: Address already in use
+     [java]    at gnu.java.net.PlainSocketImpl.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.bind(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at java.net.ServerSocket.<init>(libgcj.so.90)
+     [java]    at wikibench.WikiBench.doController(Unknown Source)
+     [java]    at wikibench.WikiBench.main(Unknown Source)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.ExecuteJava.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.run(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.executeJava(ant.jar.so)
+     [java]    at org.apache.tools.ant.taskdefs.Java.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.UnknownElement.execute(ant.jar.so)
+     [java]    at java.lang.reflect.Method.invoke(libgcj.so.90)
+     [java]    at org.apache.tools.ant.dispatch.DispatchUtils.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Task.perform(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.execute(ant.jar.so)
+     [java]    at org.apache.tools.ant.Target.performTasks(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeSortedTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTarget(ant.jar.so)
+     [java]    at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Project.executeTargets(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.runBuild(ant.jar.so)
+     [java]    at org.apache.tools.ant.Main.startAnt(ant.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.run(ant-launcher.jar.so)
+     [java]    at org.apache.tools.ant.launch.Launcher.main(ant-launcher.jar.so)
+     [java] Java Result: 1
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
